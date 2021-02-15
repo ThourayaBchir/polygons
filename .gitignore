@@ -3,3 +3,4 @@ tekyn_test_dev.egg-info/
 .tox/
 tekyn_venv/
 __pycache__/
+.idea/
