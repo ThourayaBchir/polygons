@@ -1,0 +1,5 @@
+tekyn_test_dev.egg-info/
+.ipynb_checkpoints/
+.tox/
+tekyn_venv/
+
